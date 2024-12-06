@@ -1,0 +1,26 @@
+{
+    "packStructureVersion": 26,
+    "title": "No I frame 2.0",
+    "guid": "2ee7ff8d-39e5-4a39-abbc-4b9fd6bf8506",
+    "descriptionEnglish": "Removes all immunity frames",
+    "authors": [
+        {
+            "file": "1.webp",
+            "name": "EternalDev",
+            "color": "#ffc8a8ff",
+            "link": "https://discord.gg/wzwXVFTgYA",
+            "icon_height": 70
+        },
+        {
+            "file": "2.png",
+            "name": "Cero (photo)",
+            "color": "#ff4005f0",
+            "link": "https://discord.com/invite/Uv8FjYWxz4",
+            "icon_height": 70
+        }
+    ],
+    "version": 2,
+    "predefined_tags": [
+        31
+    ]
+}
